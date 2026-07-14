@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Body -->
+  <ellipse cx="50" cy="62" rx="30" ry="24" fill="#F58220"/>
+
+  <!-- Head -->
+  <circle cx="50" cy="34" r="22" fill="#F58220"/>
+
+  <!-- Ears -->
+  <path d="M32 22 L26 4 L44 16 Z" fill="#F58220"/>
+  <path d="M68 22 L74 4 L56 16 Z" fill="#F58220"/>
+
+  <!-- Tail -->
+  <path d="M78 70
+           C 92 68, 96 50, 86 40
+           C 96 46, 94 66, 80 76
+           Z" fill="#F58220"/>
+
+  <!-- Front legs / paws -->
+  <ellipse cx="34" cy="88" rx="8" ry="10" fill="#F58220"/>
+  <ellipse cx="66" cy="88" rx="8" ry="10" fill="#F58220"/>
+
+  <!-- Muzzle highlight -->
+  <ellipse cx="50" cy="40" rx="12" ry="9" fill="#FFFFFF" fill-opacity="0.25"/>
+
+  <!-- Eyes -->
+  <circle cx="42" cy="32" r="3.4" fill="#3B2412"/>
+  <circle cx="58" cy="32" r="3.4" fill="#3B2412"/>
+
+  <!-- Nose -->
+  <path d="M47 40 L53 40 L50 44 Z" fill="#3B2412"/>
+
+  <!-- Whiskers -->
+  <line x1="14" y1="38" x2="30" y2="40" stroke="#3B2412" stroke-width="2" stroke-linecap="round"/>
+  <line x1="14" y1="46" x2="30" y2="45" stroke="#3B2412" stroke-width="2" stroke-linecap="round"/>
+  <line x1="86" y1="38" x2="70" y2="40" stroke="#3B2412" stroke-width="2" stroke-linecap="round"/>
+  <line x1="86" y1="46" x2="70" y2="45" stroke="#3B2412" stroke-width="2" stroke-linecap="round"/>
+</svg>
