@@ -92,7 +92,7 @@ Note: For full functionality, testing through a Moodle environment is recommende
 ## Development Notes
 
 - This project is based on the Scratch-Editor GitHub repository and adapted for Moodle.
-- It has been customized for HEVS-PHVS requirements.
+- It has been customized for HEPVS-PHVS requirements.
 - Custom figure/sprite support has been enabled.
 - If frontend files are modified, the corresponding Moodle-side files should also be updated.
 
